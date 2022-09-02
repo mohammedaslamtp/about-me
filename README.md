@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Mohammed Aslam
+I am Mohammed Aslam
 ------------
 
 I'm started my programming journey after completing my Higher secondary studies. Now its almost 1 year and 6 months. I have started with C language for basic logics and I am go into Java, I am completed a basic calculator project using swing in Java programming language. Now I'm learned HTML and CSS after that I completed bootstrap frame work and now covering Javascript almost. Next I'm going to back-end. I want to become a full stack developer.
